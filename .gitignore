@@ -99,3 +99,4 @@ stage1/.DS_Store
 stage1/trips_raw_data.csv
 stage2/trips_raw_data.csv
 stage2/.ipynb_checkpoints/neighbourhoods_analysis-checkpoint.ipynb
+stage2/Question 1/trips_raw_data.csv
